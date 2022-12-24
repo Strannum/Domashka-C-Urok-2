@@ -1,0 +1,15 @@
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\bin\Debug\net6.0\Zadacha 10.exe
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\bin\Debug\net6.0\Zadacha 10.deps.json
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\bin\Debug\net6.0\Zadacha 10.runtimeconfig.json
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\bin\Debug\net6.0\Zadacha 10.dll
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\bin\Debug\net6.0\Zadacha 10.pdb
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\obj\Debug\net6.0\Zadacha 10.csproj.AssemblyReference.cache
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\obj\Debug\net6.0\Zadacha 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\obj\Debug\net6.0\Zadacha 10.AssemblyInfoInputs.cache
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\obj\Debug\net6.0\Zadacha 10.AssemblyInfo.cs
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\obj\Debug\net6.0\Zadacha 10.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\obj\Debug\net6.0\Zadacha 10.dll
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\obj\Debug\net6.0\refint\Zadacha 10.dll
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\obj\Debug\net6.0\Zadacha 10.pdb
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\obj\Debug\net6.0\Zadacha 10.genruntimeconfig.cache
+D:\GeekBrains\Git_lokal_files\Domashka C\Urok 2\Domashka-C-Urok-2\Zadacha 10\obj\Debug\net6.0\ref\Zadacha 10.dll
